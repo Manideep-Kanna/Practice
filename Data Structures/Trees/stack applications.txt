@@ -1,0 +1,8 @@
+STACK PROBLEMS 
+1.next largest elemet right or next greater to the right
+2.next smaller element right
+3.next larger element left
+4.next smaller element right 
+BY KNOWING THESE WE CAN DO ANY PROBLEM IN STACK
+4.stock span
+5.largest rectangle in an histogram
