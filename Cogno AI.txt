@@ -1,0 +1,3 @@
+1.Decoding Ways
+2.Lucky Tickets
+3.no of ways to place rook in chess

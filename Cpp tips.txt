@@ -1,0 +1,3 @@
+SO WHEN WHERE SHOULD WE USE THE STACK
+* when the brute force algorithm is of o(n^2) and inner loop is dependent on i
+then we can use stack to make it more efficient

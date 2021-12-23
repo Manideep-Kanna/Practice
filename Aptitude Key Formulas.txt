@@ -1,0 +1,2 @@
+* LCM is a multiple of HCF
+* If HCF of teo numbers is 1 then they are CO PRIMERS
